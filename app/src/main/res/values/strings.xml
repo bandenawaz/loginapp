@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="title">SVERI Login</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="pwd_hint">Enter Password</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
